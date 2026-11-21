@@ -12,6 +12,6 @@ namespace Human_Sizov2.Classes
             Img = img;
         }
 
-        public abstract void Speek(Label Phase);
+        public abstract void Speek(System.Windows.Controls.Label Phrase);
     }
 }
