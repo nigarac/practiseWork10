@@ -14,7 +14,8 @@
         <StackPanel 
             Orientation="Horizontal"
             x:Name="Parent">
-            
+            <Button Content="диалог" Height="57" Margin="90,111,0,0" Width="232" Click="Dialog"/>
+
         </StackPanel>
     </Grid>
 </Window>

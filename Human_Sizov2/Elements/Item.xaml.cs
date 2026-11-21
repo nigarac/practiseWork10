@@ -25,5 +25,10 @@ namespace Human_Sizov2.Elements
         {
             Human.Speek(lText);
         }
+
+        public void SpeekOnElements()
+        {
+            Human.Speek(lText);
+        }
     }
 }
